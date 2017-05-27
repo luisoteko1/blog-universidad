@@ -11,3 +11,7 @@
 [Documentacion]
 
 [Roadmap]
+
+[Licencia]
+
+[Agradecimientos]
